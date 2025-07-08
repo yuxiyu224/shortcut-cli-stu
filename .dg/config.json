@@ -1,0 +1,19 @@
+{
+  "version": "0.1.0",
+  "project": "shortcut-cli",
+  "outputDir": ".dg",
+  "updated": "2025-07-08T06:38:24.965Z",
+  "casts": [
+    {
+      "name": "showhelp",
+      "title": "ShowHelp",
+      "created": "2025-07-08T06:38:24.964Z",
+      "updated": "2025-07-08T06:38:24.964Z",
+      "interactive": false,
+      "validation": {
+        "mode": "auto"
+      },
+      "command": "short --help"
+    }
+  ]
+}
