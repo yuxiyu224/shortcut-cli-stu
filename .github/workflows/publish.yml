@@ -19,6 +19,9 @@ jobs:
                   registry-url: 'https://registry.npmjs.org'
             - name: Install dependencies
               run: npm ci
+            # 安装 shortcut-cli 工具
+            - name: Install shortcut-cli
+              run: npm install -g shortcut-cli
             - run: npm publish --provenance --access public
               env:
                   NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
