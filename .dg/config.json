@@ -2,13 +2,13 @@
   "version": "0.1.0",
   "project": "shortcut-cli",
   "outputDir": ".dg",
-  "updated": "2025-07-08T06:38:24.965Z",
+  "updated": "2025-07-08T07:20:53.891Z",
   "casts": [
     {
-      "name": "showhelp",
-      "title": "ShowHelp",
-      "created": "2025-07-08T06:38:24.964Z",
-      "updated": "2025-07-08T06:38:24.964Z",
+      "name": "showhelpdg",
+      "title": "showhelpdg",
+      "created": "2025-07-08T07:20:53.890Z",
+      "updated": "2025-07-08T07:20:53.890Z",
       "interactive": false,
       "validation": {
         "mode": "auto"
