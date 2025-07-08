@@ -2,18 +2,29 @@
   "version": "0.1.0",
   "project": "shortcut-cli",
   "outputDir": ".dg",
-  "updated": "2025-07-08T07:20:53.891Z",
+  "updated": "2025-07-08T08:40:47.748Z",
   "casts": [
     {
-      "name": "showhelpdg",
-      "title": "showhelpdg",
-      "created": "2025-07-08T07:20:53.890Z",
-      "updated": "2025-07-08T07:20:53.890Z",
+      "name": "showhelpst",
+      "title": "showhelpst",
+      "created": "2025-07-08T08:36:51.759Z",
+      "updated": "2025-07-08T08:36:51.759Z",
       "interactive": false,
       "validation": {
         "mode": "auto"
       },
-      "command": "short --help"
+      "command": "exit"
+    },
+    {
+      "name": "showhelpsc",
+      "title": "showhelpsc",
+      "created": "2025-07-08T08:40:47.748Z",
+      "updated": "2025-07-08T08:40:47.748Z",
+      "interactive": false,
+      "validation": {
+        "mode": "auto"
+      },
+      "command": "short --version"
     }
   ]
 }
