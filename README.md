@@ -22,7 +22,7 @@ This is a community-driven command line interface for [Shortcut](https://shortcu
 -   [Acknowledgments](#acknowledgments)
 
 ## Usage
-![哈哈哈哈哈](./.dg/svg/showhelpsc-dark.svg)
+![showhelppsc](./.dg/svg/showhelpsc-dark.svg)
 ### Install
 Install via npm:
 <!-- Self-testing badge (remove if not using CI yet) -->
